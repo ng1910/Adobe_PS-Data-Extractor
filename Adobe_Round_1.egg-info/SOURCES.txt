@@ -1,0 +1,13 @@
+setup.py
+Adobe_Round_1.egg-info/PKG-INFO
+Adobe_Round_1.egg-info/SOURCES.txt
+Adobe_Round_1.egg-info/dependency_links.txt
+Adobe_Round_1.egg-info/requires.txt
+Adobe_Round_1.egg-info/top_level.txt
+Extraction_Files/Business_Details.py
+Extraction_Files/Customer_Details.py
+Extraction_Files/Extract_Table_Data.py
+Extraction_Files/Invoice_Desc.py
+Extraction_Files/Tax_Details.py
+Extraction_Files/__init__.py
+Extraction_Files/extract_txt_table_info_from_pdf.py
